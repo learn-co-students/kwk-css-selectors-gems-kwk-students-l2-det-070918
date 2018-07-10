@@ -10,7 +10,7 @@
 
 /* Select the image with class of emerald */
 
-.emerald  {
+.emerald{
   position: absolute;
   z-index: 2;
   top: 350px;
@@ -35,7 +35,7 @@
 }
 
 /* Select the image that has ad id of diamond */
-#diamond{
+#diamond img[alt="Diamond"]{
   position: absolute;
   z-index: 3;
   top: 300px;
